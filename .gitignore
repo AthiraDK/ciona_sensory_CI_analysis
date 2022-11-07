@@ -3,5 +3,6 @@
 **/.ipynb_checkpoints/
 **/*.ipynb
 **/__pycache__**
+**/code/tvregdiff.py
 
 !*/.gitkeep
