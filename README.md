@@ -11,5 +11,5 @@ This code uses the Python version of Rick Chartrand's algorithm for numerical di
 
 ### References
 <a id="1">[1]</a> 
-Kolar, K., Dondorp, D., Zwiggelaar, J.C. et al. Mesmerize is a dynamically adaptable user-friendly analysis platform for 2D and 3D calcium imaging data. Nat Commun 12, 6569 (2021)(https://doi.org/10.1038/s41467-021-26550-y_)
+Kolar, K., Dondorp, D., Zwiggelaar, J.C. et al. Mesmerize is a dynamically adaptable user-friendly analysis platform for 2D and 3D calcium imaging data. Nat Commun 12, 6569 (2021) [link](https://doi.org/10.1038/s41467-021-26550-y_)
 
