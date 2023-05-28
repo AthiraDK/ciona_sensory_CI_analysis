@@ -5,9 +5,7 @@ This repository contains the code for :
 - processing Calcium imaging data obtained from Mesmerise software and plotting stimulus response traces [[1]](#1)   
 
 ### Dependencies
-Requires numpy, scipy, sklearn installed. Required matplotlib and seaborn for plotting.
-
-This code uses the Python version of Rick Chartrand's algorithm for numerical differentiation of noisy data impleneted in this [github repo](https://github.com/stur86/tvregdiff).
+Requires numpy, scipy, scikit-learn and tslearn packages to be installed. Required matplotlib and seaborn for plotting.
 
 ### References
 <a id="1">[1]</a> 
